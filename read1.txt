@@ -1,2 +1,2 @@
 ﻿Git is a version control system.
-Git is freed software.
+Git is freed ware.
